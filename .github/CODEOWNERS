@@ -1,7 +1,7 @@
-# Core: you own all
-* @autom8edIT
+# Core: personal owner and professional collaborator
+* @usrname1git @autom8edIT
 
 # If you later add teams or collaborators, you can split ownership:
-# docs/*        @autom8edIT @somefriend
-# scripts/*.ps1 @autom8edIT
-# .github/*     @autom8edIT
+# docs/*        @usrname1git @autom8edIT
+# scripts/*.ps1 @usrname1git @autom8edIT
+# .github/*     @usrname1git @autom8edIT
