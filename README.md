@@ -2,9 +2,9 @@
 
 → **[Releases](../../releases)** for binaries.
 
-[![CI](https://github.com/autom8edIT/main/actions/workflows/CI.yml/badge.svg)](https://github.com/autom8edIT/main/actions/workflows/CI.yml)
-[![Gitleaks](https://github.com/autom8edIT/main/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/autom8edIT/main/actions/workflows/gitleaks.yml)
-[![Release](https://github.com/autom8edIT/main/actions/workflows/release.yaml/badge.svg)](https://github.com/autom8edIT/main/actions/workflows/release.yaml)
+[![CI](https://github.com/usrname1git/main/actions/workflows/CI.yml/badge.svg)](https://github.com/usrname1git/main/actions/workflows/CI.yml)
+[![Gitleaks](https://github.com/usrname1git/main/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/usrname1git/main/actions/workflows/gitleaks.yml)
+[![Release](https://github.com/usrname1git/main/actions/workflows/release.yaml/badge.svg)](https://github.com/usrname1git/main/actions/workflows/release.yaml)
 
 This is the central hub. If you only want binaries, go to **Releases**.  
 If you want to build or tweak, start here:
